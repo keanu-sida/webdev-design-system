@@ -7,8 +7,7 @@ The minimum requirements for the project are as follows:
 As your websites grow larger and more complex, having a consistent set of styles will help them stay cohesive and enjoyable for users! It also helps as you start working with other developers, as you can have a consistent reference for how your website should be built.
 Your style guide/design system will include at least a section on colors, fonts, and specific text styles, but it can be extended to as many other areas as you’d like. You can take a look at our basic example site for a taste of what you’ll be building (yours will be customized).
 
-2.
-Your style guide should include a labeled section outlining the colors to be used.
+2. Your style guide should include a labeled section outlining the colors to be used.
 Each color should have:
 A name (you can come up with this name yourself)
 A box displaying the color itself.
